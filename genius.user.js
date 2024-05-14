@@ -20,7 +20,6 @@
         .cNXXxk { color: #BAB7BA; }
         .dddWnX { color: #BAB7BA; }
         .hwdUNy { fill: #BAB7BA!important; }
-        /* Diğer elementler için stilleri buraya ekleyin */
     `;
 
 
